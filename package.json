@@ -2,16 +2,16 @@
   "name": "@koddsson/helper-markdown",
   "description": "Markdown template helper. Uses remarkable to render markdown in templates. Should work with Handlebars, Lo-Dash or any template engine that supports helper functions.",
   "version": "1.0.1",
-  "homepage": "https://github.com/helpers/helper-markdown",
+  "homepage": "https://github.com/koddsson/helper-markdown",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
     "Brian Woodward (https://twitter.com/doowb)",
     "Jon Schlinkert (http://twitter.com/jonschlinkert)",
     "Pedro De almeida (www.almeida.ch)"
   ],
-  "repository": "helpers/helper-markdown",
+  "repository": "koddsson/helper-markdown",
   "bugs": {
-    "url": "https://github.com/helpers/helper-markdown/issues"
+    "url": "https://github.com/koddsson/helper-markdown/issues"
   },
   "license": "MIT",
   "files": [
