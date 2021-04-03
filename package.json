@@ -53,8 +53,8 @@
     "templates"
   ],
   "verb": {
-    "toc": true,
-    "layout": "default",
+    "toc": false,
+    "layout": "basic",
     "tasks": [
       "readme"
     ],
@@ -76,10 +76,15 @@
       "handlebars",
       "templates",
       "underscore",
-      "verb"
+      "verb",
+      "lodash",
+      "remarkable"
     ],
     "lint": {
       "reflinks": true
+    },
+    "options": {
+      "badges": false
     }
   }
 }
