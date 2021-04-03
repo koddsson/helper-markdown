@@ -1,4 +1,4 @@
-# helper-markdown [![NPM version](https://img.shields.io/npm/v/@koddsson/helper-markdown.svg?style=flat)](https://www.npmjs.com/package/@koddsson/helper-markdown) [![NPM monthly downloads](https://img.shields.io/npm/dm/@koddsson/helper-markdown.svg?style=flat)](https://npmjs.org/package/@koddsson/helper-markdown) [![NPM total downloads](https://img.shields.io/npm/dt/@koddsson/helper-markdown.svg?style=flat)](https://npmjs.org/package/@koddsson/helper-markdown) ![Build](https://github.com/koddsson/helper-markdown/actions/workflows/build.yml/badge.svg)
+# @koddsson/helper-markdown
 
 > Markdown template helper. Uses remarkable to render markdown in templates. Should work with Handlebars, Lo-Dash or any template engine that supports helper functions.
 
